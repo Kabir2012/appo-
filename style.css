@@ -1,0 +1,167 @@
+/* Global style */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+.global-btn{
+    
+padding: 10px;
+    
+border: 1px;
+    
+background: #00fff0;
+    
+border-radius: 10px;
+    
+margin-top: 20px;
+}
+.global-btn:hover{
+        cursor: pointer;
+        box-shadow: 0px 0px 4px aqua;
+        transition: ease-in-out.8s;
+}
+/* Header is here  */
+#top-header{
+    background: #223047;
+    width: 100%;
+    float: left;
+}
+.main-header{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 10px 0px;
+    border-bottom: 1px;
+}
+.logo-part{
+    width: 33.33%;
+    float: left;
+}
+.menu-part{
+    width: 33.33%;
+    float: left;
+    border-bottom: 1px solid;
+}
+.menu-part nav{
+
+margin: 8px 0px;
+}
+.menu-part nav ul{
+
+}
+.menu-part nav ul li{
+
+list-style: none;
+
+margin: 0px 10px;
+
+display: inline-block;
+}
+.menu-part nav ul li a{
+    
+text-decoration: none;
+    
+color: white;
+    
+font-weight: 600;
+}
+.btn-part{
+    width: 33.33%;
+    float: left;
+}
+.Reah-btn{
+
+padding: 10px 20px;
+
+border-radius: 10px;
+
+margin-top: 20px;
+
+border: 1px solid white;
+
+text-align: center;
+
+margin-left: 100px;
+}
+#btn-part{
+
+color: wheat;
+
+font-size: 20px;
+}
+
+.hero-section{
+    width: 100%;
+    float: left;
+}
+.hero-writing-part{
+
+margin: 90px 0px;
+
+font-size: 30px;
+
+font-family: sans-serif;
+
+text-align: center;
+
+padding: 100px;
+
+color: white;
+}
+.hero-img-part{
+
+margin-top: 150px;
+}
+#img{
+    
+margin-top: -200px;
+}
+hero-img-part img{
+    
+}
+#center{
+
+font-size: 17px;
+
+margin-top: 30px;
+}
+.icon1.cmn {
+    width: 22.22%;
+    float: left;
+    text-align: center;
+    margin: 0px 60px;
+}
+
+.col-md-7.row.box {
+    width: 100%;
+    float: left;
+    margin-top: 100px;
+    border-bottom: 1px solid;
+}
+
+.icon2.cmn {width: 22.22%;float: left;text-align: center;margin: 1px;margin-top: -60px;}
+
+.col-md-6 {width: 100%;}
+
+.icon3.cmn {width: 22.22%;float: left;text-align: center;margin: 1px;margin-top: 60px;}
+
+.icon4.cmn {width: 22.22%;float: left;text-align: center;margin: 1px;margin-top: -60px;}
+
+li {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {text-align: center;}
